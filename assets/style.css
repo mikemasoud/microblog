@@ -86,3 +86,17 @@ body {
 .site-footer a:hover {
   text-decoration: underline;
 }
+.site-nav {
+  margin-top: 18px;
+}
+
+.site-nav a {
+  color: #ffffff;
+  text-decoration: none;
+  font-weight: bold;
+  margin: 0 12px;
+}
+
+.site-nav a:hover {
+  text-decoration: underline;
+}
