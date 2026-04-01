@@ -17,4 +17,8 @@ title: Home
 <div class="about">
   <h2>About this micro blog</h2>
   <p>This micro blog publishes concise commentary and original analysis on governance, anti-corruption, internal control, ethical leadership, and institutional decision-making.</p>
+  <p><strong>Author:</strong> Mike J. Masoud</p>
+  <p><strong>Professional inquiries:</strong> <a href="mailto:info@theaaci.com">info@theaaci.com</a></p>
+  <p><strong>Copyright:</strong> © 2026 Mike J. Masoud. All rights reserved.</p>
+  <p><strong>Use of content:</strong> No part of this micro blog may be reproduced, republished, or redistributed without prior written permission, unless otherwise stated.</p>
 </div>
