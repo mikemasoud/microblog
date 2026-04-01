@@ -1,16 +1,22 @@
 media:
-  input: .
-  output: .
+  input: assets
+  output: /assets
 
 content:
   - name: posts
     label: Posts
     type: collection
-    path: posts
+    path: _posts
     filename: "{year}-{month}-{day}-{primary}.md"
     view:
       fields: [title, date]
     fields:
+      - name: layout
+        label: Layout
+        type: string
+        default: post
+        required: true
+
       - name: title
         label: Title
         type: string
