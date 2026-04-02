@@ -100,7 +100,7 @@ body {
 .site-nav a:hover {
   text-decoration: underline;
 }
-.about img {
+.profile-photo {
   display: block;
   max-width: 120px;
   width: 100%;
