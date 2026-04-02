@@ -8,7 +8,7 @@ permalink: /about/
 
 This micro blog publishes concise commentary and original analysis on governance, anti-corruption, internal control, ethical leadership, accountability, and institutional decision-making.
 
-![Mike J. Masoud](/assets/mike-masoud.png)
+<img src="/assets/mike-masoud.png" alt="Mike J. Masoud" class="profile-photo">
 
 ## Author
 
