@@ -100,3 +100,10 @@ body {
 .site-nav a:hover {
   text-decoration: underline;
 }
+.about img {
+  display: block;
+  max-width: 220px;
+  height: auto;
+  border-radius: 8px;
+  margin: 20px 0 24px;
+}
