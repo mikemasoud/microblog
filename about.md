@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+<div class="about-page">
+
 ## About
 
 This micro blog publishes concise commentary and original analysis on governance, anti-corruption, internal control, ethical leadership, accountability, and institutional decision-making.
@@ -37,14 +39,16 @@ He also serves as a senior instructor, technical advisor, and contributor to The
 
 ## Professional inquiries
 
-For professional inquiries, contact: [mike@theaaci.com](mailto:mike@theaaci.com)
+For professional inquiries, contact: <a href="mailto:mike@theaaci.com">mike@theaaci.com</a>
 
 ## LinkedIn
 
-[www.linkedin.com/in/mmasoudcpa](https://www.linkedin.com/in/mmasoudcpa)
+<a href="https://www.linkedin.com/in/mmasoudcpa" target="_blank" rel="noopener noreferrer">www.linkedin.com/in/mmasoudcpa</a>
 
 ## Copyright and use of content
 
 © 2026 Mike J. Masoud. All rights reserved.
 
 No part of this micro blog may be reproduced, republished, or redistributed without prior written permission, unless otherwise stated.
+
+</div>
