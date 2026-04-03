@@ -32,6 +32,11 @@ content:
         type: text
         required: true
 
+      - name: why_it_matters
+        label: Why it matters
+        type: text
+        required: true
+
       - name: body
         label: Body
         type: rich-text
