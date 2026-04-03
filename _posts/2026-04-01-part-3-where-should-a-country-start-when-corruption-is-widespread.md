@@ -5,10 +5,14 @@ date: 2026-04-01
 summary: A country should not fight corruption everywhere at once. It should
   begin where corruption risk is concentrated, institutional leverage exists,
   and early action can produce visible results for citizens.
-why_it_matters: "Reform fails when governments try to attack corruption blindly. Real progress starts where corruption causes the greatest damage and where visible early action can strengthen public trust."
+why_it_matters: Reform fails when governments try to attack corruption blindly.
+  Real progress starts where corruption causes the greatest damage and where
+  visible early action can strengthen public trust.
 ---
 [Mike J. Masoud](https://blog.theaaci.com/mike-masoud/)  
 March 31, 2026
+
+This article was originally published on The AACI Blog at <a href="[https://blog.theaaci.com](https://blog.theaaci.com)" target="_blank" rel="noopener noreferrer">[blog.theaaci.com](http://blog.theaaci.com)</a>.
 
 This is Part 3 of a five-part series on where countries should start when corruption is widespread across institutions and economic sectors. If [Part 1](https://blog.theaaci.com/part-1-a-nation-cannot-fight-what-it-has-not-defined/) argued that a country must define corruption clearly, and [Part 2](https://blog.theaaci.com/part-2-why-no-country-can-fight-corruption-without-the-right-institutional-foundations/) argued that it must build the right institutional foundations, this part addresses the practical question that follows: where should a country actually begin? The answer is blunt. It should not begin everywhere at once. It should begin where corruption risk is concentrated, where state capacity can act, and where early action can produce visible results for citizens (FATF, 2025; IMF, n.d.).
 
