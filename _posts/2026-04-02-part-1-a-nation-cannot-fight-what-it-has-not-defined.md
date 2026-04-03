@@ -14,7 +14,7 @@ why_it_matters: Governance fails when institutions claim to oppose corruption
 [Mike J. Masoud](https://blog.theaaci.com/mike-masoud/)  
 March 17, 2026
 
-This article was originally published on The AACI Blog at <a href="[https://blog.theaaci.com/blog](https://blog.theaaci.com)" target="_blank" rel="noopener noreferrer">[blog.theaaci.com](http://blog.theaaci.com)</a>.  
+This article was originally published on The AACI Blog at <a href="[https://blog.theaaci.com/blog/](https://blog.theaaci.com)" target="_blank" rel="noopener noreferrer">[blog.theaaci.com](http://blog.theaaci.com)</a>.  
   
 This is Part 1 of a five-part series on where countries should start when corruption is widespread across institutions and economic sectors. This part addresses a basic but neglected reality: no country can fight corruption intelligently unless it first defines what it is trying to fight, how it appears in practice, and why citizens should care. That is not an academic detail. It determines whether anti-corruption reform becomes a serious national effort or collapses into slogans, selective enforcement, and political theater (Exam Unit, n.d.a; OECD, 2020).
 
