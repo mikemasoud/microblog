@@ -23,3 +23,10 @@ title: Home
   <p><strong>Copyright:</strong> © 2026 Mike J. Masoud. All rights reserved.</p>
   <p><strong>Use of content:</strong> No part of this micro blog may be reproduced, republished, or redistributed without prior written permission, unless otherwise stated.</p>
 </div>
+<div class="about">
+  <h2>Explore more</h2>
+  <p>Readers interested in additional analysis, commentary, and practical engagement can also explore the following:</p>
+  <p><strong><a href="https://www.linkedin.com/newsletters/the-aaci-dispatch-7321647166328827904/">The AACI Dispatch on LinkedIn</a></strong> — A monthly newsletter featuring analysis, commentary, and insights on anti-corruption, governance, and institutional integrity.</p>
+  <p><strong><a href="https://theaaci.substack.com">Power &amp; Accountability on Substack</a></strong> — A publication exploring deeper perspectives on corruption prevention, ethical leadership, accountability, and institutional risk.</p>
+  <p><strong><a href="https://certification.theaaci.com/aaci-assistant">The AACI Assistant</a></strong> — An interactive assistant designed to help readers explore AACI-related anti-corruption concepts, ideas, and resources.</p>
+</div>
