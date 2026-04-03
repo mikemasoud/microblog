@@ -2,20 +2,14 @@
 layout: post
 title: "Part 1: A Nation Cannot Fight What It Has Not Defined"
 date: 2026-04-02
-summary: "Part 1 argues that no country can fight corruption seriously unless it
-  first defines corruption clearly in its own legal, institutional, and
-  practical reality. The article rejects the lazy assumption that passing laws,
-  creating commissions, or announcing strategies is enough. It states that
-  corruption must be understood not only as criminal conduct, but also as a
-  broader abuse of entrusted power that can survive through patronage, conflicts
-  of interest, opaque procurement, selective enforcement, and institutional
-  tolerance. The piece relies on The AACI framework, UNCAC, and OECD public
-  integrity principles to argue that anti-corruption must be continuous,
-  multidisciplinary, and system-wide rather than limited to prosecution after
-  the damage is done. Its central message is blunt: if a country has not clearly
-  identified what corruption means, where it is most damaging, how it operates,
-  and what success looks like for citizens, it is not truly fighting corruption.
-  It is merely performing opposition to it."
+summary: No country can fight corruption intelligently until it defines
+  corruption in legal, institutional, and operational terms. Without that
+  clarity, reform collapses into slogans, selective enforcement, and political
+  theater instead of a disciplined national process grounded in diagnosis,
+  standards, and shared accountability.
+why_it_matters: Governance fails when institutions claim to oppose corruption
+  without defining what must be deterred, prevented, detected, and corrected
+  across the system.
 ---
 [Mike J. Masoud](https://blog.theaaci.com/mike-masoud/)  
 March 17, 2026
