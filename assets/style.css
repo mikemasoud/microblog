@@ -156,3 +156,26 @@ body {
   color: #ffffff;
   text-decoration: underline;
 }
+.article-body,
+.about-page,
+.about,
+.explore-more {
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+}
+
+.article-body a,
+.about-page a,
+.about a,
+.explore-more a {
+  overflow-wrap: anywhere;
+  word-break: break-word;
+}
+
+.article-body p,
+.article-body li,
+.about-page p,
+.about-page li {
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+}
