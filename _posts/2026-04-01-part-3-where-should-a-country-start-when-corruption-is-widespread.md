@@ -6,6 +6,8 @@ summary: A country should not fight corruption everywhere at once. It should
   begin where corruption risk is concentrated, institutional leverage exists,
   and early action can produce visible results for citizens.
 ---
+why_it_matters: "Reform fails when governments try to attack corruption blindly. Real progress starts where corruption causes the greatest damage and where visible early action can strengthen public trust."
+---
 [Mike J. Masoud](https://blog.theaaci.com/mike-masoud/)  
 March 31, 2026
 
