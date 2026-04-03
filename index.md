@@ -9,7 +9,8 @@ title: Home
 <div class="post-card">
   <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
   <p class="post-meta">{{ post.date | date: "%B %d, %Y" }}</p>
-  <p>{{ post.summary }}</p>
+  <p><strong>Summary:</strong> {{ post.summary }}</p>
+  <p><strong>Why it matters:</strong> {{ post.why_it_matters }}</p>
   <a class="read-more" href="{{ post.url }}">Read the full post</a>
 </div>
 {% endfor %}
