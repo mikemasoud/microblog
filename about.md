@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-<div class="about-page">
-
 ## About
 
 This micro blog publishes concise commentary and original analysis on governance, anti-corruption, internal control, ethical leadership, accountability, and institutional decision-making.
@@ -50,5 +48,3 @@ For professional inquiries, contact: <a href="mailto:mike@theaaci.com">mike@thea
 © 2026 Mike J. Masoud. All rights reserved.
 
 No part of this micro blog may be reproduced, republished, or redistributed without prior written permission, unless otherwise stated.
-
-</div>
