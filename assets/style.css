@@ -178,3 +178,12 @@ body {
   overflow-wrap: break-word;
   word-wrap: break-word;
 }
+
+.article-body img {
+  display: block;
+  max-width: 85%;
+  height: auto;
+  border-radius: 8px;
+  margin: 18px auto 22px;
+  border: 1px solid #d7dee8;
+}
