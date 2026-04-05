@@ -21,7 +21,6 @@ title: Home
   <p><strong>Author:</strong> Mike J. Masoud</p>
   <p><strong>Professional inquiries:</strong> <a href="mailto:info@theaaci.com">info@theaaci.com</a></p>
   <p><strong>Copyright:</strong> © 2026 Mike J. Masoud. All rights reserved.</p>
-  <p><strong>Use of content:</strong> No part of this micro blog may be reproduced, republished, or redistributed without prior written permission, unless otherwise stated.</p>
 </div>
 
 <div class="explore-more">
