@@ -32,4 +32,4 @@ permalink: /disclaimer-and-copyright-notice/
 
 <p>No part of the original content published on this microblog may be reproduced, republished, distributed, translated, adapted, stored, exploited commercially, or used for training artificial intelligence systems or datasets without prior written permission, except as permitted by applicable law.</p>
 
-<p>For permissions or rights-related inquiries, please contact: <a href="mailto:info@theaaci.com">info@theaaci.com</a></p>
+<p>For permissions or rights-related inquiries, please contact: <a href="mailto:mike@theaaci.com">mike@theaaci.com</a></p>
