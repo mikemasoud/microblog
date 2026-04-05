@@ -378,3 +378,9 @@ body {
 .site-legal a:hover {
   text-decoration: underline;
 }
+
+.last-reviewed {
+  margin: 0 0 18px;
+  font-size: 0.95rem;
+  color: #6a7383;
+}
