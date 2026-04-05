@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Disclaimer and copyright notice
 permalink: /disclaimer-and-copyright-notice/
 ---
