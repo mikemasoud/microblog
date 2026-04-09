@@ -412,3 +412,14 @@ body {
 .publication-card a:hover {
   text-decoration: underline;
 }
+
+.publication-cover {
+  display: block;
+  width: 160px;
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin: 14px 0 18px;
+  border: 1px solid #d9dee7;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.08);
+}
