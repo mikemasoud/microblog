@@ -12,7 +12,7 @@ The publications below reflect serious work in anti-corruption, governance, inte
 <section class="publication-card">
   <h2>CACM Review Textbook</h2>
 
-  <p><strong>Authorship and publishing:</strong> By Mike Masoud and published by The American Anti-Corruption Institute (AACI).</p>
+  <p><strong>Authorship and publishing:</strong> By Mike Masoud and published by the Exam Unit of The American Anti-Corruption Institute (AACI).</p>
 
   <p>The <strong>CACM Review Textbook</strong> is a professional review textbook developed to support advanced study in anti-corruption, governance, internal control, fraud and corruption risk, whistleblowing, management judgment, and global anti-corruption commitments. It is intended for serious professionals and decision-makers who need more than surface-level compliance language.</p>
 
@@ -26,7 +26,7 @@ The publications below reflect serious work in anti-corruption, governance, inte
 <section class="publication-card">
   <h2>CACF Review Textbook</h2>
 
-  <p><strong>Authorship and publishing:</strong> By Mike Masoud and published by The American Anti-Corruption Institute (AACI).</p>
+  <p><strong>Authorship and publishing:</strong> By Mike Masoud and published by the Exam Unit of The American Anti-Corruption Institute (AACI).</p>
 
   <p>The <strong>CACF Review Textbook</strong> is a foundational review textbook designed to build structured anti-corruption understanding for emerging professionals, university-level learners, and stakeholders seeking disciplined exposure to corruption prevention, integrity, governance, and accountability. It helps readers move beyond abstract ethics language and toward practical institutional awareness.</p>
 
