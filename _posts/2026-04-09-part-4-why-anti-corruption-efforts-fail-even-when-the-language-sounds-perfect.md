@@ -2,7 +2,7 @@
 layout: post
 title: "Part 4: Why Anti-Corruption Efforts Fail Even When The Language Sounds
   Perfect"
-date: 2026-04-09
+date: 2026-04-08
 summary: Part 4 argues that anti-corruption efforts fail not because countries
   lack rhetoric, but because systems absorb reform language while protecting
   impunity, selective enforcement, and state capture. It shows that trust
