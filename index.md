@@ -3,6 +3,19 @@ layout: default
 title: Home
 ---
 
+<div class="about">
+  <h2>About this micro blog</h2>
+  <p>This micro blog publishes concise commentary and original analysis on governance, anti-corruption, internal control, ethical leadership, and institutional decision-making.</p>
+  <p><strong>Author:</strong> Mike J. Masoud</p>
+  <p><strong>Professional inquiries:</strong> <a href="mailto:info@theaaci.com">info@theaaci.com</a></p>
+</div>
+
+<div class="explore-more">
+  <h2>Featured publications</h2>
+  <p>Explore the flagship review textbooks that reflect Mike Masoud’s work in anti-corruption, governance, internal control, and decision-making. These publications are designed to strengthen judgment, sharpen professional awareness, and support serious anti-corruption learning.</p>
+  <p><a href="/publications/">View publications</a></p>
+</div>
+
 ## Latest posts
 
 {% for post in site.posts %}
@@ -14,13 +27,6 @@ title: Home
   <a class="read-more" href="{{ post.url }}">Read the full post</a>
 </div>
 {% endfor %}
-
-<div class="about">
-  <h2>About this micro blog</h2>
-  <p>This micro blog publishes concise commentary and original analysis on governance, anti-corruption, internal control, ethical leadership, and institutional decision-making.</p>
-  <p><strong>Author:</strong> Mike J. Masoud</p>
-  <p><strong>Professional inquiries:</strong> <a href="mailto:info@theaaci.com">info@theaaci.com</a></p>
-</div>
 
 <div class="explore-more">
   <h2>Explore more</h2>
