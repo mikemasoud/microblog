@@ -2,7 +2,7 @@
 layout: post
 title: "Part 2: Why No Country Can Fight Corruption Without The Right
   Institutional Foundations"
-date: 2026-04-04
+date: 2026-04-02
 summary: Anti-corruption reform collapses into theater when the rule of law is
   weak, governance fails, accountability is absent, and courts lack
   independence. Competence and transparency are not supporting ideals; they are
