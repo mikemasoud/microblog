@@ -12,7 +12,7 @@ The publications below reflect serious work in anti-corruption, governance, inte
 <section class="publication-card">
   <h2>CACM Review Textbook</h2>
 
-  <img src="/assets/cacm-review-textbook-2025.jpeg" alt="Cover of the CACM Review Textbook 2025 edition" class="publication-cover">
+  <img src="/assets/cacm-review-textbook-2025.jpg" alt="Cover of the CACM Review Textbook 2025 edition" class="publication-cover">
 
   <p><strong>Authorship and publishing:</strong> By Mike Masoud and published by the Exam Unit of The American Anti-Corruption Institute (AACI).</p>
 
@@ -28,7 +28,7 @@ The publications below reflect serious work in anti-corruption, governance, inte
 <section class="publication-card">
   <h2>CACF Review Textbook</h2>
 
-  <img src="/assets/cacf-review-textbook-2025.jpeg" alt="Cover of the CACF Review Textbook 2025 edition" class="publication-cover">
+  <img src="/assets/cacf-review-textbook-2025.jpg" alt="Cover of the CACF Review Textbook 2025 edition" class="publication-cover">
 
   <p><strong>Authorship and publishing:</strong> By Mike Masoud and published by the Exam Unit of The American Anti-Corruption Institute (AACI).</p>
 
