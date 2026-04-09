@@ -384,3 +384,31 @@ body {
   font-size: 0.95rem;
   color: #6a7383;
 }
+
+.publication-card {
+  background: #ffffff;
+  border: 1px solid #d9dee7;
+  border-radius: 10px;
+  padding: 24px;
+  margin: 28px 0;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.04);
+}
+
+.publication-card h2 {
+  margin-top: 0;
+  margin-bottom: 14px;
+}
+
+.publication-card p {
+  margin: 12px 0;
+  line-height: 1.7;
+}
+
+.publication-card a {
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.publication-card a:hover {
+  text-decoration: underline;
+}
