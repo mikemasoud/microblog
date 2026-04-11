@@ -444,3 +444,30 @@ body {
 .category-section small {
   color: #666;
 }
+
+.category-section {
+  margin-bottom: 2rem;
+}
+
+.category-section h2 {
+  margin-bottom: 0.6rem;
+}
+
+.category-section ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.category-section li {
+  margin-bottom: 0.5rem;
+}
+
+.category-section small {
+  color: #666;
+}
+
+.categories-intro {
+  margin-top: -0.5rem;
+  margin-bottom: 1.75rem;
+  color: #555;
+}
