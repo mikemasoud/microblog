@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Part 1: A Nation Cannot Fight What It Has Not Defined"
-categories: [governance, accountability]
+categories: [governance]
 date: 2026-04-01
 summary: No country can fight corruption intelligently until it defines
   corruption in legal, institutional, and operational terms. Without that
