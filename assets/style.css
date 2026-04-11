@@ -423,3 +423,24 @@ body {
   border: 1px solid #d9dee7;
   box-shadow: 0 4px 14px rgba(0, 0, 0, 0.08);
 }
+
+.category-section {
+  margin-bottom: 2rem;
+}
+
+.category-section h2 {
+  margin-bottom: 0.6rem;
+}
+
+.category-section ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.category-section li {
+  margin-bottom: 0.5rem;
+}
+
+.category-section small {
+  color: #666;
+}
