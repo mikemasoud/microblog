@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Part 3: Where Should A Country Start When Corruption Is Widespread?"
+categories: [governance, accountability]
 date: 2026-04-03
 summary: A country should not fight corruption everywhere at once. It should
   begin where corruption risk is concentrated, institutional leverage exists,
