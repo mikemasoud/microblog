@@ -471,3 +471,73 @@ body {
   margin-bottom: 1.75rem;
   color: #555;
 }
+
+/* Better reading experience for article pages */
+.article-body {
+  font-size: 1.125rem; /* about 18px */
+  line-height: 1.85;
+  max-width: 760px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 32px;
+}
+
+.article-body p,
+.article-body li {
+  font-size: 1.125rem;
+  line-height: 1.85;
+}
+
+.article-body h1 {
+  font-size: 2rem;
+  line-height: 1.25;
+  margin-bottom: 18px;
+}
+
+.article-body h2 {
+  font-size: 1.45rem;
+  line-height: 1.35;
+  margin-top: 34px;
+  margin-bottom: 14px;
+}
+
+.article-body ul,
+.article-body ol {
+  padding-left: 1.4em;
+}
+
+@media (max-width: 768px) {
+  .article-body {
+    font-size: 1.08rem;
+    line-height: 1.82;
+    padding: 24px 20px;
+  }
+
+  .article-body p,
+  .article-body li {
+    font-size: 1.08rem;
+    line-height: 1.82;
+  }
+
+  .article-body h1 {
+    font-size: 1.7rem;
+  }
+
+  .article-body h2 {
+    font-size: 1.3rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .article-body {
+    font-size: 1.05rem;
+    line-height: 1.8;
+    padding: 22px 18px;
+  }
+
+  .article-body p,
+  .article-body li {
+    font-size: 1.05rem;
+    line-height: 1.8;
+  }
+}
