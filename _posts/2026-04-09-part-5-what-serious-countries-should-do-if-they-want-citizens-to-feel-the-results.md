@@ -2,6 +2,7 @@
 layout: post
 title: "Part 5: What Serious Countries Should Do If They Want Citizens To Feel
   The Results"
+categories: [governance, accountability]
 date: 2026-04-09
 summary: Part 5 argues that serious countries must stop performing
   anti-corruption and start structuring it through measurable exposure
