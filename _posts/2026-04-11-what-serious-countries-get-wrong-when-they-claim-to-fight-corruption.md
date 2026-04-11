@@ -1,6 +1,7 @@
 ---
 layout: post
 title: What Serious Countries Get Wrong When They Claim To Fight Corruption
+categories: [governance, accountability]
 date: 2026-04-11
 summary: "This adapted post argues that anti-corruption begins where rhetoric
   ends: with clear definition, honest diagnosis, institutional restraint, and
