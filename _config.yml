@@ -4,3 +4,8 @@ baseurl: ""
 url: ""
 markdown: kramdown
 permalink: /:year/:month/:day/:title/
+url: "https://mike.theaaci.org"
+baseurl: ""
+
+plugins:
+  - jekyll-sitemap
