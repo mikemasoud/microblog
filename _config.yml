@@ -1,11 +1,6 @@
 title: "Mike Masoud micro blog"
 description: "Short, direct insights on governance, internal control, corruption prevention, accountability, and institutional integrity."
-baseurl: ""
-url: ""
-markdown: kramdown
-permalink: /:year/:month/:day/:title/
 url: "https://mike.theaaci.org"
 baseurl: ""
-
-plugins:
-  - jekyll-sitemap
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
