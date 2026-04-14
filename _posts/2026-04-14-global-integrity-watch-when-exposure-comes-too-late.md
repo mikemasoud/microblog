@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Global Integrity Watch: When Exposure Comes Too Late"
+categories: [accountability]
 date: 2026-04-14
 summary: Global Integrity Watch in the April 2026 issue argues that
   institutional failure often begins long before formal accountability appears,
