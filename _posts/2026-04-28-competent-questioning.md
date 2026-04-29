@@ -17,4 +17,6 @@ Anti-corruption oversight fails when decision-makers ask weak, vague, or ceremon
 The concept challenges boards, executives, auditors, regulators, and oversight professionals to move beyond passive inquiry. It frames questioning as a governance discipline, not a conversational skill.
 
 Read and download the PDF copy here:  
-[https://news.theaaci.com/CompetentQuestioning](https://news.theaaci.com/CompetentQuestioning)
+[https://news.theaaci.com/CompetentQuestioning](https://news.theaaci.com/CompetentQuestioning)  
+  
+**Source:** Masoud, M. (2026), *Competent Questioning*, The AACI: [https://www.theaaci.net/Competent-Questioning](https://www.theaaci.net/Competent-Questioning)
