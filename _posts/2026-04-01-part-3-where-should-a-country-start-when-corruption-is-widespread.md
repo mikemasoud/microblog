@@ -1,14 +1,10 @@
 ---
 layout: post
-title: "Part 3: Where Should A Country Start When Corruption Is Widespread?"
-categories: [corruption-risk]
-date: 2026-04-03
-summary: A country should not fight corruption everywhere at once. It should
-  begin where corruption risk is concentrated, institutional leverage exists,
-  and early action can produce visible results for citizens.
-why_it_matters: Reform fails when governments try to attack corruption blindly.
-  Real progress starts where corruption causes the greatest damage and where
-  visible early action can strengthen public trust.
+title: "Anti-Corruption Intelligence in the AI Era"
+date: 2026-05-09
+categories: [governance, corruption-risk, internal-control, board-oversight, institutional-integrity]
+summary: "The AI era does not replace the need for Anti-Corruption Intelligence; it raises the standard of competence expected from those who govern, manage, audit, regulate, and approve. Digital and AI-assisted tools can support corruption prevention, but only when decision makers are competent enough to question their data, logic, outputs, exceptions, audit trails, and accountability."
+why_it_matters: "Technology strengthens corruption prevention only when it is governed with discipline, evidence, skepticism, and accountability."
 ---
 [Mike J. Masoud](https://blog.theaaci.com/mike-masoud/)  
 March 31, 2026
