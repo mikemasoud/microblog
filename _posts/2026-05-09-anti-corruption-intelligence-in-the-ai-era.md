@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Anti-Corruption Intelligence in the AI Era"
-date: 2026-05-15 10:00:00 +0300
+date: 2026-05-09
 categories: [governance, corruption-risk, internal-control, board-oversight, institutional-integrity]
 summary: "The AI era does not replace the need for Anti-Corruption Intelligence; it raises the standard of competence expected from those who govern, manage, audit, regulate, and approve. Digital and AI-assisted tools can support corruption prevention, but only when decision makers are competent enough to question their data, logic, outputs, exceptions, audit trails, and accountability."
 why_it_matters: "Technology strengthens corruption prevention only when it is governed with discipline, evidence, skepticism, and accountability."
