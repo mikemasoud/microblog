@@ -39,7 +39,7 @@ That question is where the value of the concept begins.
 The full concept, *Anti-Corruption Trap: An Anti-Corruption Governance Concept*, was authored by Mike Masoud and published by The American Anti-Corruption Institute (AACI) on June 21, 2026.
 
 Read the concept:
-https://www.theaaci.net/Anti-Corruption-Trap
+[https://www.theaaci.net/Anti-Corruption-Trap]([https://www.theaaci.net/Anti-Corruption-Trap](https://www.theaaci.net/Anti-Corruption-Trap))
 
 Download the concept paper:
-https://news.theaaci.com/Anti-Corruption-Trap
+[https://news.theaaci.com/Anti-Corruption-Trap]([https://news.theaaci.com/Anti-Corruption-Trap](https://news.theaaci.com/Anti-Corruption-Trap))
