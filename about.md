@@ -25,7 +25,7 @@ His work supports boards, audit committees, executive management, public officia
 
 Across the Middle East and Africa, Mr. Masoud leads The AACI’s educational, professional, and strategic initiatives. His work includes advancing anti-corruption certification programs, supporting academic and professional capacity building, and contributing to the development of governance-focused anti-corruption knowledge for decision-makers and those charged with governance.
 
-He is the author of The AACI concepts **Competent Questioning** and **Entrusted Authority Intelligence**, which address the human judgment, competence, and evidence-seeking discipline required to strengthen governance, reduce corruption exposure, and improve institutional oversight.
+He is the author of The AACI concepts **Competent Questioning, Entrusted Authority Intelligence, and Anti-Corruption Trap**, which address the human judgment, competence, and evidence-seeking discipline required to strengthen governance, reduce corruption exposure, and improve institutional oversight.
 
 Mr. Masoud is affiliated with leading professional bodies, including The American Anti-Corruption Institute (AACI), the Association of Certified Fraud Examiners (ACFE), the Institute of Public Accountants (IPA), Australia, and the Institute of Financial Accountants (IFA), United Kingdom.
 
